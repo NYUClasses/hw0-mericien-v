@@ -12,7 +12,7 @@
 
 # My First Github Assignment
 1. Name:
-  **Mericien Venzon**
+  * **Mericien Venzon**
 2. Favorite podcast:
   * *How I built this*
 3. Repo link:
