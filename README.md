@@ -16,7 +16,7 @@
 2. Favorite podcast:
   * *How I built this*
 3. Repo link:
-  * (https://github.com/mericien-v/bstatsizzle "Mericien's Biostats Repo")
+  * (https://github.com/mericien-v/bstatsizzle)
   
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
 
