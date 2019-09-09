@@ -10,7 +10,14 @@
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 
-
+# My First Github Assignment
+1. Name:
+  **Mericien Venzon**
+2. Favorite podcast:
+  * *How I built this*
+3. Repo link:
+  * [Mericien's Biostats Repo] (https://github.com/mericien-v/bstatsizzle)
+  
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
 
 2.Create an ordered list detailing your first and last name, your favorite blog or podcast, and the link to your GitHub repo. Make your first and last name Bold and Italicize your favorite blog or podcast name.  
